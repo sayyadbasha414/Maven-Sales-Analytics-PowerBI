@@ -58,7 +58,7 @@ Returns
 
 📸 Dashboard Screenshots
 Executive Dashboard
-https://github.com/sayyadbasha414/Maven-Sales-Analytics-PowerBI/blob/main/image.png
+https://github.com/sayyadbasha414/Maven-Sales-Analytics-PowerBI/blob/main/Maven%20Analytics.png
 
 📁 Files Included
 Maven_Market_Report_COMPLETE.pbix
